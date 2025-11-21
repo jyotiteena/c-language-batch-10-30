@@ -7,8 +7,8 @@
 <img src="output/goto.png" /> -->
 # Looper
 ## break program
-![break output]('./output/break.png')
+![break output](./output/break.png)
 ## continue program
-![continue output]('./output/contrinue.png')
+![continue output](./output/contrinue.png)
 ## goto program
-![goto output]('./output/goto.png')
+![goto output](./output/goto.png)
